@@ -47,7 +47,7 @@
 // module.exports = PersonController;
 
 
-// USANDO SQL ->
+
 const connection = require('../config/db'); // Supondo que você tenha o arquivo de conexão como 'config/connection'
 
 class PersonController {
